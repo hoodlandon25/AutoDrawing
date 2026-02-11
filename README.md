@@ -17,4 +17,5 @@ The script is optimized specifically for high-contrast monochrome drawings and d
 ## Installation
 
 Get it here:  
-👉 [here](https://greasyfork.org/en/scripts/565967-whiteboardfox-auto-draw-ultra-turbo)
+👉 [here](https://github.com/hoodlandon25/AutoDrawing/releases/tag/Beta) and [here](https://greasyfork.org/en/scripts/565967-whiteboardfox-auto-draw-ultra-turbo)
+
